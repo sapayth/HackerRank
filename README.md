@@ -11,7 +11,7 @@
 
 | Topic         | Challange                                                                           | Solution                                                                                                              |
 | ------------- |:-----------------------------------------------------------------------------------:| ---------------------------------------------------------------------------------------------------------------------:|
-| Introduction  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)           | [WelcomeToJava.java](https://github.com/sapayth/HackerRank_Solutions/blob/master/Introduction/WelcomeToJava.java)     |
-| Introduction  | [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1) | [StdinAndStdoutI.java](https://github.com/sapayth/HackerRank_Solutions/blob/master/Introduction/StdinAndStdoutI.java) |
-| Introduction  | [If-Else](https://www.hackerrank.com/challenges/java-if-else)           | [IfAndElse.java](https://github.com/sapayth/HackerRank/blob/master/Introduction/IfandElse.java)     |
-| Introduction  | [Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout) | [StdinAndStdoutII.java](https://github.com/sapayth/HackerRank/blob/master/Introduction/StdinAndStdoutII.java) |
+| Introduction  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)           | [WelcomeToJava.java](https://github.com/sapayth/HackerRank/blob/master/Java/Introduction/WelcomeToJava.java)     |
+| Introduction  | [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1) | [StdinAndStdoutI.java](https://github.com/sapayth/HackerRank/blob/master/Java/Introduction/StdinAndStdoutI.java) |
+| Introduction  | [If-Else](https://www.hackerrank.com/challenges/java-if-else)           | [IfAndElse.java](https://github.com/sapayth/HackerRank/blob/master/Java/Introduction/IfandElse.java)     |
+| Introduction  | [Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout) | [StdinAndStdoutII.java](https://github.com/sapayth/HackerRank/blob/master/Java/Introduction/StdinAndStdoutII.java) |
