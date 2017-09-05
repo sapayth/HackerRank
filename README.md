@@ -1,5 +1,5 @@
-# HackerRank_Solutions
-#### My Solutions for HackerRank problems written in Java
+# My HackerRank Solutions
+#### Solutions for HackerRank problems written in Java
 
 <p align="center">
 <a href="https://www.hackerrank.com/sapayth">
@@ -36,3 +36,17 @@
 | Day 2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Day2_Operators.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day2_Operators.java) |
 | Day 3 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Day3_IntroToConditionalStatements.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day3_IntroToConditionalStatements.java) |
 | Day 4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Day4_ClassVSInstance.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day4_ClassVSInstance.java) |
+| Day 5 | [Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Day5_Loops.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day5_Loops.java) |
+| Day 6 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Day6_LetsReview.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day6_LetsReview.java) |
+| Day 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Day7_Arrays.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day7_Arrays.java) |
+| Day 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Day8_DictionariesAndMaps.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day8_DictionariesAndMaps.java) |
+| Day 9 | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem) | [Day9_Recursion.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day9_Recursion.java) |
+| Day 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Day10_BinaryNumbers.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day10_BinaryNumbers.java) |
+| Day 11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Day11_2DArrays.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day11_2DArrays.java) |
+| Day 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Day12_Inheritance.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day12_Inheritance.java) |
+| Day 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Day13_AbstractClasses.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day13_AbstractClasses.java) |
+| Day 14 | [Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Day14_Scope.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day14_Scope.java) |
+| Day 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Day15_LinkedList.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day15_LinkedList.java) |
+| Day 16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Day16_ExceptionsStringToInteger.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day16_ExceptionsStringToInteger.java) |
+| Day 17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Day17_MoreExceptions.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day17_MoreExceptions.java) |
+| Day 18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Day18_QueuesAndStacks.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day18_QueuesAndStacks.java) |
