@@ -1,0 +1,38 @@
+/*
+ * Sapayth Hossain
+ */
+package ThirtyDaysOfCode;
+
+import java.util.Scanner;
+
+/*
+ * @author sapaythhossain
+ */
+public class Day20_Sorting {
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int a[] = new int[n];
+        for (int a_i = 0; a_i < n; a_i++) {
+            a[a_i] = in.nextInt();
+        }
+
+        int numberOfSwaps = 0;
+        int temp;
+        for (int i = 0; i < a.length - 1; i++) {
+            for (int j = 0; j < a.length - 1 - i; j++) {
+                if (a[j] > a[j + 1]) {
+                    temp = a[j];
+                    a[j] = a[j + 1];
+                    a[j + 1] = temp;
+                    numberOfSwaps++;
+                }
+            }
+        }
+
+        System.out.printf("Array is sorted in %d swaps.%n", numberOfSwaps);
+        System.out.printf("First Element: %d%n", a[0]);
+        System.out.printf("Last Element: %d%n", a[a.length - 1]);
+    }
+}
