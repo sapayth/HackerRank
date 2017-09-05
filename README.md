@@ -24,3 +24,15 @@
 | Introduction  | [Int to String](https://www.hackerrank.com/challenges/java-int-to-string) | [IntToString.java](https://github.com/sapayth/HackerRank/blob/master/Java/Introduction/IntToString.java) |
 | Introduction  | [Date and Time](https://www.hackerrank.com/challenges/java-date-and-time) | [DateAndTime.java](https://github.com/sapayth/HackerRank/blob/master/Java/Introduction/DateAndTime.java) |
 | Introduction  | [Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter) | [CurrencyFormatter.java](https://github.com/sapayth/HackerRank/blob/master/Java/Introduction/CurrencyFormatter.java) |
+
+
+## 30 Days of Code Challenges
+#### Some class name changes for conflicting issue. Ex. "Person" classname changed to "Person1" or "Person2", "Node" classname changed to "Node1" or "Node2" etc.
+
+| Day         | Challange                                                                           | Solution   |
+| ------------- |-------------------------------------------------------------------------------------| ---------- |
+| Day 0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Day0_HelloWorld.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day0_HelloWorld.java) |
+| Day 1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Day1_DataTypes.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day1_DataTypes.java) |
+| Day 2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Day2_Operators.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day2_Operators.java) |
+| Day 3 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Day3_IntroToConditionalStatements.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day3_IntroToConditionalStatements.java) |
+| Day 4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Day4_ClassVSInstance.java](https://github.com/sapayth/HackerRank/blob/master/ThirtyDaysOfCode/Day4_ClassVSInstance.java) |
