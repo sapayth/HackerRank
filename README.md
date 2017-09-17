@@ -35,7 +35,9 @@
 #### BigNumber
 | Topic     | Challange                                                                           | Solution   |
 | --------- |-------------------------------------------------------------------------------------| ---------- |
-| BigNumber | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [JavaBigDecimal.java](https://github.com/sapayth/HackerRank/blob/master/Java/BigNumber/JavaBigDecimal.java) |
+| BigNumber | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [JavaBigInteger.java](https://github.com/sapayth/HackerRank/blob/master/Java/BigNumber/JavaBigInteger.java) |
+| BigNumber | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal) | [JavaBigDecimal.java](https://github.com/sapayth/HackerRank/blob/master/Java/BigNumber/JavaBigDecimal.java) |
+| BigNumber | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [JavaPrimalityTest.java](https://github.com/sapayth/HackerRank/blob/master/Java/BigNumber/JavaPrimalityTest.java) |
 
 ## 30 Days of Code Challenges
 #### Some class name changes for conflicting issue. Ex. "Person" classname changed to "Person1" or "Person2", "Node" classname changed to "Node1" or "Node2" etc.
