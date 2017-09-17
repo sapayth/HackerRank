@@ -26,12 +26,21 @@
 | Introduction  | [Date and Time](https://www.hackerrank.com/challenges/java-date-and-time) | [DateAndTime.java](https://github.com/sapayth/HackerRank/blob/master/Java/Introduction/DateAndTime.java) |
 | Introduction  | [Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter) | [CurrencyFormatter.java](https://github.com/sapayth/HackerRank/blob/master/Java/Introduction/CurrencyFormatter.java) |
 
-## Java
 #### Strings
 | Topic         | Challange                                                                           | Solution   |
 | ------------- |-------------------------------------------------------------------------------------| ---------- |
+| Strings | [Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [StringsIntroduction.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/StringsIntroduction.java) |
+| Strings | [Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [Substring.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/Substring.java) |
+| Strings | [Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | [SubstringComparisons.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/SubstringComparisons.java) |
+| Strings | [String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [StringReverse.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/StringReverse.java) |
+| Strings | [Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | [Anagrams.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/Anagrams.java) |
+| Strings | [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [StringTokens.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/StringTokens.java) |
+| Strings | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [PatternSyntaxChecker.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/PatternSyntaxChecker.java) |
+| Strings | [Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [JavaRegex.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/JavaRegex.java) |
+| Strings | [Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [JavaRegex2_DuplicateWords.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/JavaRegex2_DuplicateWords.java) |
+| Strings | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [ValidUsernameRegularExpression.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/ValidUsernameRegularExpression.java) |
+| Strings | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [TagContentExtractor.java](https://github.com/sapayth/HackerRank/blob/master/Java/Strings/TagContentExtractor.java) |
 
-## Java
 #### BigNumber
 | Topic     | Challange                                                                           | Solution   |
 | --------- |-------------------------------------------------------------------------------------| ---------- |
